@@ -1,4 +1,4 @@
-![](population-map.gif)
+<a href="https://open-data-government-of-alberta.github.io/Alberta-Census-Subdivisions-Total-Population-Estimates---Map/index.html" target="_blank">![](population-map.gif)<>
 
 ### Credits
 - <a href="https://open.alberta.ca/opendata/6647c7b5-b173-4711-a493-dad08308d501#summary" target="_blank">2016 Federal Census Division - Alberta Open Data</a>
