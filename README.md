@@ -10,7 +10,7 @@
 This data product is provided ‘as-is,’ and Statistics Canada makes no warranty, either express or implied, including but not limited to, warranties of merchantability and fitness for a particular purpose. In no event will Statistics Canada be liable for any direct, special, indirect, consequential or other damages, however caused.
 
 ### Credits
-- <a href="https://open.alberta.ca/opendata/6647c7b5-b173-4711-a493-dad08308d501#summary" target="_blank">2016 Federal Census Division - Alberta Open Data</a>
+- <a href="https://open.alberta.ca/opendata/population-estimates-by-age-and-sex-alberta-census-subdivisions-july-1-2001-2017" target="_blank">Population Estimates by Age and Sex, Alberta Census Subdivisions (July 1, 2001-2017)</a>
 - <a href="https://regionaldashboard.alberta.ca/#/" target="_blank">Alberta Regional Dashboard</a>
 - <a href="https://gist.githubusercontent.com/mikelotis/6f2887d02d5b44c411785acb641764c0/raw/85cf11f306bccad1b8198261689f3f3d1dfaaeb1/canada.json" target="_blank">Canada's Topojson</a>
 - <a href="https://stackoverflow.com/questions/39713333/nodejs-utf-8-encoded-string-has-black-question-mark" target="_blank">UTF-8 encoded string has black question mark</a>
